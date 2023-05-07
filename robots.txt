@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocarawasune.github.io/sitemap.xml
